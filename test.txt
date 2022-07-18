@@ -1,15 +1,11 @@
-line no 1
+git init //Initializes a new git repository
 
-line no 2
+git add . or <file name> //Adds all files to the staging area
 
-line no 3
+git commit -m "message" //Commits the current state of the staging area to the repository
 
-line no 4
+git add remote origin <github url> //Adds a remote repository
 
-line no 5
+git push origin master //Pushes the current state of the staging area to the remote repository
 
-line no 6
-
-line no 8
-
-line no 9
+git pull origin master //Pulls the current state of the remote repository to the staging area
