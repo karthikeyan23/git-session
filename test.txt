@@ -6,6 +6,8 @@ git commit -m "message" //Commits the current state of the staging area to the r
 
 git add remote origin <github url> //Adds a remote repository
 
+git clone <github url> //Clones a remote repository
+
 git push origin master //Pushes the current state of the staging area to the remote repository
 
 git pull origin master //Pulls the current state of the remote repository to the staging area
